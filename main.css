@@ -1,0 +1,16 @@
+input ,h3{
+  width: 100vm;
+  height: 30px;
+  display: inline;
+  margin:30px ;
+}
+
+[id^='container']{
+  margin: 12px;
+  border: 1px solid black;
+  align-self: center;
+}
+
+body{
+  background-color:cornsilk;
+}
